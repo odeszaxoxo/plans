@@ -1,0 +1,28 @@
+{
+    "plans": [{
+            "id": "1floor",
+            "title": "План 1 этажа",
+            "url": "https://sun9-26.userapi.com/c857336/v857336916/1492cd/5rN0v3XUGMo.jpg"
+        },
+        {
+            "id": "2floor",
+            "title": "План 2 этажа",
+            "url": "https://sun9-26.userapi.com/c857336/v857336916/1492cd/5rN0v3XUGMo.jpg"
+        },
+        {
+            "id": "3floor",
+            "title": "План 3 этажа",
+            "url": "https://sun9-26.userapi.com/c857336/v857336916/1492cd/5rN0v3XUGMo.jpg"
+        },
+        {
+            "id": "4floor",
+            "title": "План 4 этажа",
+            "url": "https://sun9-26.userapi.com/c857336/v857336916/1492cd/5rN0v3XUGMo.jpg"
+        },
+        {
+            "id": "5floor",
+            "title": "План 5 этажа",
+            "url": "https://sun9-26.userapi.com/c857336/v857336916/1492cd/5rN0v3XUGMo.jpg"
+        }
+    ]
+}
